@@ -1,1 +1,2 @@
-# github-practice_develop
+# github-practice
+세상을 호령할 사람이 되고싶은 김관우입니다. 깃허브는 오늘이 처음입니다. 잘부탁드립니다.
